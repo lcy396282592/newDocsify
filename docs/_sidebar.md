@@ -1,19 +1,11 @@
-
-* [备战面试](./a-1备战面试.md)
+<!--
+ * @Author: your name
+ * @Date: 2021-03-11 15:09:19
+ * @LastEditTime: 2021-06-19 15:51:03
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \lczdocs\_sidebar.md
+-->
+- eslint+prettier
+  - [前端代码规范eslint+prettier](code.md)
   
-* Java
-
-  * [Java基础](./b-1面试题总结-Java基础.md)
-  * [Java集合](./b-2Java集合.md)
-  * [Java多线程](./b-3Java多线程.md)
-  * [jvm](./b-4jvm.md)
-
-* 计算机基础
-
-  * [计算机网络](./c-1计算机网络.md)
-  * [数据结构](./c-2数据结构.md)
-  * [算法](./c-3算法.md)
-  * [操作系统](./c-4操作系统.md)
-
-  
-
